@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\planets\bin\Debug\netcoreapp2.2\planets.deps.json
+C:\Users\naienko\workspace\csharp\exercises\planets\bin\Debug\netcoreapp2.2\planets.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\planets\bin\Debug\netcoreapp2.2\planets.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\planets\bin\Debug\netcoreapp2.2\planets.dll
+C:\Users\naienko\workspace\csharp\exercises\planets\bin\Debug\netcoreapp2.2\planets.pdb
+C:\Users\naienko\workspace\csharp\exercises\planets\obj\Debug\netcoreapp2.2\planets.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\planets\obj\Debug\netcoreapp2.2\planets.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\planets\obj\Debug\netcoreapp2.2\planets.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\planets\obj\Debug\netcoreapp2.2\planets.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\planets\obj\Debug\netcoreapp2.2\planets.dll
+C:\Users\naienko\workspace\csharp\exercises\planets\obj\Debug\netcoreapp2.2\planets.pdb
